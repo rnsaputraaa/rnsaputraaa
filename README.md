@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Web & Mobile Projects  
 - 🌱 I’m currently learning **Laravel** & **React Native**  
 - 👯 I’m looking to collaborate on **Open Source**  
-- 🧠 I’m also learning **Docker**, **Django**  
+- 🧠 I’m also learning **Docker** & **Django**  
 - 🎮 I love to play **games** and watch **anime**
 
 ---
