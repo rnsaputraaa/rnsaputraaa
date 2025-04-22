@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My Name Rama</h1>
-<h3 align="center">A passionate Fullstack Developer 💻</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
   <img src="https://github.com/rnsaputraaa/rnsaputraaa/blob/main/sasuke-gif-3.gif?raw=true" width="400" />
@@ -7,15 +7,30 @@
 
 <br><br>
 
-- 🔭 I’m currently working on Web & Mobile Projects  
+<table align="center">
+  <tr>
+    <td>
+  
+- 🔭 I’m currently working on Web & Mobile Projects                      
 - 🌱 I’m currently learning **Laravel** & **React Native**  
 - 👯 I’m looking to collaborate on **Open Source**  
-- 🧠 I’m also learning **Docker** & **Django**  
-- 🎮 I love to play **games** and watch **anime**
+- 🧠 I’m also learning **Docker** & **Django**
 
----
+</td>
+<td>
 
-### 🛠️ Languages & Tools
+- 🎮 I love to play **Games** and watch **Anime**
+- 🍜 I love **Ramen** and **Coding** at night
+- 🎧 Favorite playlist: **Chill** & **Lo-fi**
+- 🗾 Dreaming of visiting **Japan** someday
+
+</td>
+  </tr>
+</table>
+
+<br><br>
+
+<h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -27,14 +42,7 @@
 
 ---
 
-### 🧠 Fun Facts
-- 🍜 I love ramen and coding at night  
-- 🎧 Favorite playlist: Chill & Lo-fi  
-- 🗾 Dreaming of visiting Japan someday
-
----
-
-### 📈 GitHub Stats
+<h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rnsaputraaa&show_icons=true&theme=github_dark&count_private=true" />
 </p>
