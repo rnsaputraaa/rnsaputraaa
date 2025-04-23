@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My Name Rama</h1>
+<h1 align="center">Hi, my name Rama</h1>
 <h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
@@ -48,13 +48,9 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rnsaputraaa&show_icons=true&theme=github_dark&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rnsaputraaa&theme=dark" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnsaputraaa&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rnsaputraaa&show_icons=true&theme=github_dark&count_private=true" />
 </p>
